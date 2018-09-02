@@ -1,10 +1,10 @@
 Slingshot project - working with submodules.
 
-# add rock as a submodule of slingshot. In the slingshot repository:
+**add rock as a submodule of slingshot. In the slingshot repository:**
 
 `git submodule add https://github.com/<user>/rock rock`
 
-# update the installed submodule "Rock".
+**update the installed submodule "Rock".**
 
 ```
 cd rock
