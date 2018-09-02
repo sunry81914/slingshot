@@ -1,1 +1,1 @@
-init Slingshot
+Slingshot project - working with submodules.
